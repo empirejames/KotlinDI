@@ -1,0 +1,3 @@
+interface weaponSkill{
+    fun attack()
+}
